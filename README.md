@@ -1,6 +1,6 @@
-# ServerScannr
+ServerScannrv2
 
-**ServerScannr** is a powerful, secure, and professional Discord moderation tool designed to scan and evaluate servers for safety, compliance, and trustworthiness. 
+ServerScannr is a powerful, secure, and professional Discord moderation tool designed to scan and evaluate servers for safety, compliance, and trustworthiness. 
 Built with performance, transparency, and ease-of-use in mind, ServerScannr enables Discord communities to self-assess or request verification before joining trusted listings like discord.serverseek.xyz
 ---
 
