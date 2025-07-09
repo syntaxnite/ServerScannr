@@ -1,0 +1,17 @@
+{
+  "name": "serverscanner",
+  "version": "1.0.0",
+  "description": "A secure and professional Discord bot for scanning servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy-commands": "node deploy-commands.js"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "mysql2": "^3.14.1"
+  }
+}
